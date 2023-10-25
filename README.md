@@ -33,6 +33,6 @@ Pronto. projeto rodando com sucesso!
 
 ## Links úteis:
 
-https://create-react-app.dev/docs/adding-typescript/
-https://sass-lang.com/install/
-https://date-fns.org/docs/Getting-Started
+- https://create-react-app.dev/docs/adding-typescript/
+- https://sass-lang.com/install/
+- https://date-fns.org/docs/Getting-Started
