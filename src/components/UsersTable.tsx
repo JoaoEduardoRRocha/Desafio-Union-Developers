@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { User } from "../user/User";
 
-import { formatDate } from "../components/utils/formatDate";
+import { formatDate } from "./utils/formatDate";
 
 export interface UsersTableProps {
     users: User[];
